@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace _414Crypto
+namespace BoomCoin
 {
     class Program
     {
