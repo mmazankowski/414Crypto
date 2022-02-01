@@ -14,4 +14,9 @@ namespace _414Crypto
             Console.WriteLine("Hello World!");
         }
     }
+
+    class Blockchain
+    {
+
+    }
 }
