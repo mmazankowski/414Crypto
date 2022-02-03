@@ -8,8 +8,10 @@
 
   <ItemGroup>
     <None Remove="Newtonsoft.Json" />
+    <None Remove="starkbank-ecdsa" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="starkbank-ecdsa" Version="1.3.3" />
   </ItemGroup>
 </Project>
